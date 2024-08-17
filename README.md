@@ -2,7 +2,7 @@
 An open-source lightweight driver that adds modern USB compatibility to DOS. USB 1, 2, and 3 are all supported.
 
 # Compatibility
-DSB has been tested on MS-DOS 6.22. It's unknown if it works on earlier versions, but it should work on later versions. And since the DSB is a DOS driver, it will also add modern USB compatibility to DOS-based Windows versions, such as Windows 3.x. It should also work for any other Windows version you install on top of DOS 6.22.
+DSB has been tested on MS-DOS 6.22. It's unknown if it works on earlier versions, but it should work on later versions. And since DSB is a DOS driver, it will also add modern USB compatibility to DOS-based Windows versions, such as Windows 3.x. It should also work for any other Windows version you install on top of DOS 6.22.
 
 # Build Instructions
 
