@@ -16,6 +16,8 @@ DSB has been tested on MS-DOS 6.22. It's unknown if it works on earlier versions
 4. Now is the time to make any desired changes to the code.
 5. Create an executable file (EXE) by going to `Run >> Make EXE File...` Type a name for the executable file and select `Make EXE`.
 
+Alternatively, if you don't want to build DSB yourself, you can just download a premade executable from the Releases page.
+
 # License
 
 DSB is released under the MIT license.
